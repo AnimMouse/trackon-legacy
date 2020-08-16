@@ -1,7 +1,8 @@
-application: track-on
-version: 4
-runtime: python
+application: trackon-gae
+version: 1
+runtime: python27
 api_version: 1
+threadsafe: false
 
 handlers:
 

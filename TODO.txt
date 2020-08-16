@@ -7,3 +7,7 @@
     - http://bitreactor.to/trackerlist
     - http://www.torrentking.org/
     - http://gcachescan.jonatkins.com/ (Gnutella, maybe should do a gnutella version?)
+
+Proper Unicode handling (in particular in tracker error responses).
+Make happy trackers that require compact=1 to be set, without making unhappy any legacy trackers that wont like it…
+Support for IPv6-only trackers.
